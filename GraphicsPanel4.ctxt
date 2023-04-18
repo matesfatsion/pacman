@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GraphicsPanel4
+comment1.params=pac\ pel\ gho\ endgame\ powpel\ gb\ llevel\ ccherry
+comment1.target=GraphicsPanel4(PacMan,\ java.util.ArrayList,\ Ghost[],\ boolean,\ java.util.ArrayList,\ GameBorder,\ int,\ Cherry)
+comment1.text=Takes\ Starting\ Values\ of\ Pellets,\ Ghosts,\ and\ Pacman
+comment2.params=pac
+comment2.target=void\ updateLocation(PacMan)
+comment2.text=Updates\ Loaction\ of\ Pacman
+comment3.params=numbertimee
+comment3.target=void\ updatenumbertime(int)
+comment4.params=pel\ powpel\ ghocount\ llevel\ livess\ mmultiplier\ ccherry
+comment4.target=void\ updateStuff(java.util.ArrayList,\ java.util.ArrayList,\ int,\ int,\ int,\ int,\ Cherry)
+comment4.text=Updates\ whether\ Pellets\ exist\ and\ how\ Long\ Ghosts\ have\ been\ Edible
+comment5.params=endgame\ ghostcontact
+comment5.target=void\ hitGhost(boolean,\ boolean)
+comment5.text=Updates\ Status\ of\ Endgame
+comment6.params=g
+comment6.target=void\ paint(java.awt.Graphics)
+comment7.params=
+comment7.target=boolean\ getisanumber()
+numComments=8

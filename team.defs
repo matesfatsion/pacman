@@ -1,0 +1,17 @@
+#Mon Apr 17 22:25:01 CDT 2023
+bluej.teamsettings.groupname=
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.yourName=Matthew Tesfatsion
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.yourEmail=matesfatsion@gmail.com
+bluej.teamsettings.git.repositoryPrefix=/matesfatsion/pacman.git
+bluej.teamsettings.vcs=git
+bluej.teamsettings.user=matesfatsion
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.ignore8=\\.DS_Store

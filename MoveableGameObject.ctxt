@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MoveableGameObject
+comment1.params=xx\ yy
+comment1.target=MoveableGameObject(double,\ double)
+comment2.params=xdir\ ydir\ speed
+comment2.target=void\ moveIt(int,\ int,\ double)
+numComments=3

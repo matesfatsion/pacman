@@ -1,0 +1,7 @@
+
+PROJECT TITLE: PacMan wit da chicken strips
+PURPOSE OF PROJECT: (-:
+VERSION or DATE: alpa beta
+HOW TO START THIS PROJECT: you cant 
+AUTHORS: me
+USER INSTRUCTIONS: don't
